@@ -1,0 +1,2 @@
+Method,Name,Error,Occurrences
+GET,/,"CatchResponseError('Got wrong response, Status code: 0')",1
